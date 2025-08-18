@@ -2,6 +2,7 @@
 🎯 **Aspiring Data Analyst | Excel • Power BI • SQL **  
 Passionate about transforming raw data into actionable insights. My background in **Business Administration and ICAN certification** helps me connect financial understanding with analytics, building solutions that solve real business problems.
 ---
+
 ## 👩‍💻 About Me  
 - 🎓 Graduated with a degree in **Business Administration**  
 - 📜 **Chartered Accountant (ICAN Certified) 
